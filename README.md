@@ -34,7 +34,7 @@ To accurately forecast future interventions, the independent variables needed to
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)[ekaingutierrez]/Agintzari_Social_Interventions.git
+   git clone [https://github.com/](https://github.com/)[ekaingutierrez]/agintzari-social-interventions.git
    ```
 
 2. Install dependencies:
